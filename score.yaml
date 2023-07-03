@@ -17,3 +17,7 @@ containers:
 resources:
   dns: # We need a DNS record to point to the service 
     type: dns
+  asset:
+    type: s3
+    properties:
+      bucket:
