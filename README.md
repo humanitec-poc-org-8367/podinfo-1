@@ -1,6 +1,6 @@
 # Podinfo - Podinfo-1
 
-A simple score project deploying podinfo.
+A simple score project deploying podinfo. yada yada
 
 ## Deploying
 
